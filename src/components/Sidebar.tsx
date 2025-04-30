@@ -45,7 +45,7 @@ const Sidebar = () => {
           <div className="profile-avatar">
             {randomUser.split(" ").map(name => name[0]).join("")}
           </div>
-          <h3 className="profile-name">{randomUser}</h3>
+          <h3 className="profile-name"> Sachitanand</h3>
           <p className="profile-role">AI Safety Officer</p>
         </div>
 

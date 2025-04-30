@@ -28,6 +28,7 @@ const Footer = () => {
               </p>
             </div>
             <div className="col-md-6 text-center text-md-end">
+<p>my name issachitanad</p>
               <p className="mb-0">
                 Version 1.0.0 | Last updated: {new Date().toLocaleDateString()}
               </p>

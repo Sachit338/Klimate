@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className="container-fluid">
         {/* Brand/Logo with responsive margin */}
         <a className="navbar-brand fw-bold brand-title" href="#">
-          <span className="brand-highlight">AI</span> Sentinel
+          <span className="brand-highlight">AI</span> Dashboard
         </a>
       </div>
     </nav>
